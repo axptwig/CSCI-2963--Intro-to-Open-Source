@@ -5,6 +5,6 @@ A)
 B)
 C)
 D)
-E) ![e](https://github.com/axptwig/CSCI-2963--Intro-to-Open-Source/tree/master/images/e.jpg)         
+E) ![e link](https://github.com/axptwig/CSCI-2963--Intro-to-Open-Source/tree/master/images/e.jpg)         
 
    
