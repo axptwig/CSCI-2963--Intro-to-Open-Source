@@ -1,4 +1,4 @@
 ## Name: Ashwin M. Raghuraman - 
 ### email: raghuraman@outlook.com
 ### 
-Photo of Ashwin!(images/amr.jpg)
+Photo of Ashwin!![Ashwin](images/amr.jpg)
