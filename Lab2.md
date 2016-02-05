@@ -4,9 +4,25 @@
 
 3) You shouldn't use a repository without a license because the absence of a license means that the content of that repository is “all rights reserved”. One can land him/herself into legal trouble for using unlicensed code so it is probably not worth the risk.
 
-4)
+4) Yes i do agree with this claim because from what we see today "forking" or splintering into many options is fairly prevolent today. We can see that there are tons of different linux flavors and distributions and maybe by properly adhering to the Open Source model, many of these distros could have been consolidated.
 
-5)
+5) I think that the reason why Microsoft .NET Core uses the MIT license because is because they have created a community of users who make use of their product and together, in open source fashion, collectively find and fix bugs in the product. The MIT license is very flexible and allows free redistribution, which is good for fostering a community. One reason they wouldnt use the apache license or GPL is because i don't think microsoft is concerned with patent rights for this product.
 
-6)
+6) For this lab my example project will be a basic pageRank implementation written in go. I would use the MIT license again so people who come across my code could join my open source project.
+
+7) First off i think that the Apache license would be the best for the company. I think this because the Apache/BSD3 license allows others to use the trademark but there are restrictions on trademark use, so the company would be able to dictate their terms of use. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License.
