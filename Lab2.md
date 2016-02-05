@@ -24,9 +24,7 @@ https://github.com/rcos/venue | Yes | MIT License
 https://github.com/Mordikai/Reddit-Enhancement-Suite | Yes | GPL License
 https://github.com/bazinga931212/RCOS_RayTing | No | Should add a license
 
-
-
-
+10) The project that i am thinking about developing in this course will be some project written in go. I am not sure about what i am specifically going to do but my goals are to develop a strong set of multi threading skills and i want my project to make use of cloud technologies such as AWS or heroku. My current idea is to implement a paxos process scheduling system or a hosted on a couple aws ec2 linux nodes or maybe a go implementation of pageRank. Users/customers would be peoplep interested in learning about cutting edge cloud technologies and those interested in the ways large software companies run their data centers. I will choose the MIT license so anyone can  freely use and help develop my code.
 
 
 
