@@ -1,9 +1,15 @@
-Part1:
+Lab 3 Part1:
 
-Part2: 
+https://github.com/axptwig/lab3part1
 
-Part3:
+Lab3 Part2:
 
+https://github.com/axptwig/Spoon-Knife 
+https://github.com/axptwig/courseproject
+http://imgur.com/rYgMQgj
 
+Lab3 Part3:
 
-screenshot of game: http://imgur.com/Ei26Khm
+https://github.com/mskmoorthy/spring2016pullreq
+
+https://github.com/mskmoorthy/NewStory ( NEED PULL REQUEST )
