@@ -1,0 +1,2 @@
+/home/ashwinr/Lab6/Step2/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/ashwinr/Lab6/Step2/CMakeFiles/Tutorial.dir

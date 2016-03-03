@@ -1,0 +1,3 @@
+/home/ashwinr/Lab6/Step5/MathFunctions/CMakeFiles/MakeTable.dir
+/home/ashwinr/Lab6/Step5/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/ashwinr/Lab6/Step5/CMakeFiles/Tutorial.dir

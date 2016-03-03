@@ -1,0 +1,1 @@
+/home/ashwinr/Lab6/Step1/CMakeFiles/Tutorial.dir
