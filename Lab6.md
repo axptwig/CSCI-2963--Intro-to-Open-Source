@@ -24,7 +24,7 @@ First commit:  Jan 31, 2014
 Latest commit:  Mar 11, 2016
 Current branches (18):  master, Issue_297, UIs, authentication, diff,
 error_messages, fixes, inline_viewer, json, junit_test, pbailie,
-rainbow_grades, server, testing-fixes, testing, travis_build, vagrant, zipbomb [gitstats](/files/lab6/ 	HWserver_gitStats/index.html)
+rainbow_grades, server, testing-fixes, testing, travis_build, vagrant, zipbomb [gitstats](/files/gitstats/HWserver_gitStats/index.html)
 
 
 #### NepalRobotics (Core Repository)
@@ -32,13 +32,13 @@ Number of contributors:  2
 Number of lines of code:  202
 First commit:  Nov 25, 2015
 Latest commit:  Jan 9, 2016
-Current branches (2):  master, develop [gitstats](/files/lab6/Nepal_gitStats/index.html)
+Current branches (2):  master, develop [gitstats](/files/gitstats/Nepal_gitStats/index.html)
 
 #### Soul Engine
 Number of contributors:  1
 Number of lines of code:  360,324
 First commit:  Sep 15, 2015
 Latest commit:  Mar 4, 2016
-Current branches (4):  master, Acceleration-Structure, Shader, objectPipeline [gitstats](/files/lab6/soul_gitStats/index.html)
+Current branches (4):  master, Acceleration-Structure, Shader, objectPipeline [gitstats](/files/gitstats/soul_gitStats/index.html)
 
 ### Part 2 - Unit Testing
