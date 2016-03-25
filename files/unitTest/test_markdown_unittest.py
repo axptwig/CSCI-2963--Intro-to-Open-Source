@@ -18,7 +18,7 @@ class TestMarkdownPy(unittest.TestCase):
         '''
         self.assertEqual( 
                 run_markdown('this line has no special handling'), 
-                '<p>this line has no special handling</p>\n')
+                '<p>this line has no special handling</p>')
 
     def test_em(self):
         '''
@@ -26,7 +26,7 @@ class TestMarkdownPy(unittest.TestCase):
         '''
         self.assertEqual( 
                 run_markdown('*this should be wrapped in em tags*'),
-                '<p><em>this should be wrapped in em tags</em></p>\n')
+                '<p><em>this should be wrapped in em tags</em></p>')
 
     def test_strong(self):
         '''
@@ -34,21 +34,39 @@ class TestMarkdownPy(unittest.TestCase):
         '''
         self.assertEqual( 
                 run_markdown('**this should be wrapped in strong tags**'),
-                '<p><strong>this should be wrapped in strong tags</strong></p>\n')
+                '<p><strong>this should be wrapped in strong tags</strong></p>')
 
-    def test_h1(self):
+    def test_H1(self):
+        '''
+        Lines preceded by one pound symbol(#) should be wrapped in 'h1' tags
+        '''
         self.assertEqual( 
                 run_markdown('#this should be wrapped in h1 tags'),
-                '<p><h1>this should be wrapped in h1 tags</h1></p>\n')
-    def test_h2(self):
+                '<p><h1>this should be wrapped in h1 tags</h1></p>')
+
+    def test_H2(self):
+        '''
+        Lines preceded by two pound symbols(##) should be wrapped in 'h2' tags
+        '''
         self.assertEqual( 
                 run_markdown('##this should be wrapped in h2 tags'),
-                '<p><h2>this should be wrapped in h2 tags</h2></p>\n')
-    def test_h3(self):
+                '<p><h2>this should be wrapped in h2 tags</h2></p>')
+
+    def test_H3(self):
+        '''
+        Lines preceded by three pound symbols(###) should be wrapped in 'h3' tags
+        '''
         self.assertEqual( 
                 run_markdown('###this should be wrapped in h3 tags'),
-                '<p><h3>this should be wrapped in h3 tags</h3></p>\n')
+                '<p><h3>this should be wrapped in h3 tags</h3></p>')
+
+    def test_Block(self):
+        '''
+        Lines preceded by the more than symbol(>) should be wrapped in 'blockquote' tags
+        '''
+        self.assertEqual( 
+                run_markdown('>this should be wrapped in blockquote tags'),
+                '<p><blockquote>this should be wrapped in blockquote tags\n</blockquote></p>')
 
 if __name__ == '__main__':
     unittest.main()
-
